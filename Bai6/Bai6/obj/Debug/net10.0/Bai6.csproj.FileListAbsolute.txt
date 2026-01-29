@@ -1,0 +1,15 @@
+E:\225\C#\Bai6\Bai6\bin\Debug\net10.0\Bai6.exe
+E:\225\C#\Bai6\Bai6\bin\Debug\net10.0\Bai6.deps.json
+E:\225\C#\Bai6\Bai6\bin\Debug\net10.0\Bai6.runtimeconfig.json
+E:\225\C#\Bai6\Bai6\bin\Debug\net10.0\Bai6.dll
+E:\225\C#\Bai6\Bai6\bin\Debug\net10.0\Bai6.pdb
+E:\225\C#\Bai6\Bai6\obj\Debug\net10.0\Bai6.GeneratedMSBuildEditorConfig.editorconfig
+E:\225\C#\Bai6\Bai6\obj\Debug\net10.0\Bai6.AssemblyInfoInputs.cache
+E:\225\C#\Bai6\Bai6\obj\Debug\net10.0\Bai6.AssemblyInfo.cs
+E:\225\C#\Bai6\Bai6\obj\Debug\net10.0\Bai6.csproj.CoreCompileInputs.cache
+E:\225\C#\Bai6\Bai6\obj\Debug\net10.0\Bai6.sourcelink.json
+E:\225\C#\Bai6\Bai6\obj\Debug\net10.0\Bai6.dll
+E:\225\C#\Bai6\Bai6\obj\Debug\net10.0\refint\Bai6.dll
+E:\225\C#\Bai6\Bai6\obj\Debug\net10.0\Bai6.pdb
+E:\225\C#\Bai6\Bai6\obj\Debug\net10.0\Bai6.genruntimeconfig.cache
+E:\225\C#\Bai6\Bai6\obj\Debug\net10.0\ref\Bai6.dll

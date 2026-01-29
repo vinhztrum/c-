@@ -1,0 +1,15 @@
+E:\225\C#\Bai8\Bai8\obj\Debug\net10.0\Bai8.GeneratedMSBuildEditorConfig.editorconfig
+E:\225\C#\Bai8\Bai8\obj\Debug\net10.0\Bai8.AssemblyInfoInputs.cache
+E:\225\C#\Bai8\Bai8\obj\Debug\net10.0\Bai8.AssemblyInfo.cs
+E:\225\C#\Bai8\Bai8\obj\Debug\net10.0\Bai8.csproj.CoreCompileInputs.cache
+E:\225\C#\Bai8\Bai8\obj\Debug\net10.0\Bai8.sourcelink.json
+E:\225\C#\Bai8\Bai8\bin\Debug\net10.0\Bai8.exe
+E:\225\C#\Bai8\Bai8\bin\Debug\net10.0\Bai8.deps.json
+E:\225\C#\Bai8\Bai8\bin\Debug\net10.0\Bai8.runtimeconfig.json
+E:\225\C#\Bai8\Bai8\bin\Debug\net10.0\Bai8.dll
+E:\225\C#\Bai8\Bai8\bin\Debug\net10.0\Bai8.pdb
+E:\225\C#\Bai8\Bai8\obj\Debug\net10.0\Bai8.dll
+E:\225\C#\Bai8\Bai8\obj\Debug\net10.0\refint\Bai8.dll
+E:\225\C#\Bai8\Bai8\obj\Debug\net10.0\Bai8.pdb
+E:\225\C#\Bai8\Bai8\obj\Debug\net10.0\Bai8.genruntimeconfig.cache
+E:\225\C#\Bai8\Bai8\obj\Debug\net10.0\ref\Bai8.dll

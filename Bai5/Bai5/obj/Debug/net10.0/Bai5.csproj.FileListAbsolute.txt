@@ -1,0 +1,15 @@
+E:\225\C#\Bai5\Bai5\obj\Debug\net10.0\Bai5.GeneratedMSBuildEditorConfig.editorconfig
+E:\225\C#\Bai5\Bai5\obj\Debug\net10.0\Bai5.AssemblyInfoInputs.cache
+E:\225\C#\Bai5\Bai5\obj\Debug\net10.0\Bai5.AssemblyInfo.cs
+E:\225\C#\Bai5\Bai5\obj\Debug\net10.0\Bai5.csproj.CoreCompileInputs.cache
+E:\225\C#\Bai5\Bai5\obj\Debug\net10.0\Bai5.sourcelink.json
+E:\225\C#\Bai5\Bai5\bin\Debug\net10.0\Bai5.exe
+E:\225\C#\Bai5\Bai5\bin\Debug\net10.0\Bai5.deps.json
+E:\225\C#\Bai5\Bai5\bin\Debug\net10.0\Bai5.runtimeconfig.json
+E:\225\C#\Bai5\Bai5\bin\Debug\net10.0\Bai5.dll
+E:\225\C#\Bai5\Bai5\bin\Debug\net10.0\Bai5.pdb
+E:\225\C#\Bai5\Bai5\obj\Debug\net10.0\Bai5.dll
+E:\225\C#\Bai5\Bai5\obj\Debug\net10.0\refint\Bai5.dll
+E:\225\C#\Bai5\Bai5\obj\Debug\net10.0\Bai5.pdb
+E:\225\C#\Bai5\Bai5\obj\Debug\net10.0\Bai5.genruntimeconfig.cache
+E:\225\C#\Bai5\Bai5\obj\Debug\net10.0\ref\Bai5.dll
